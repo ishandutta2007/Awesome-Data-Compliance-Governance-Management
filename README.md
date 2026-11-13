@@ -1,6 +1,6 @@
 # Awesome-Data-Compliance-Governance-Management
 
-# Top Data Compliance & Governance Management Ecosystem
+## Top Data Compliance & Governance Management Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on GRC Automation, Evidence Collection & Regulatory Framework Mapping*  
