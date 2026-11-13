@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Compliance-Governance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Compliance-Governance-Management?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Compliance-Governance-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Compliance-Governance-Management?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Compliance-Governance-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Compliance-Governance-Management?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Compliance-Governance-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Compliance-Governance-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -68,7 +68,7 @@ The sector exhibits a **moderately fragmented** structure: traditional enterpris
 
 ## 💻 Open-Source GitHub Projects
 
-| Project | ⭐ Star Badge | 📝 Description |
+| Project | ⭐ Stars_Badge | 📝 Description |
 |---------|------------|-------------|
 | **[OpenMetadata](https://github.com/open-metadata/OpenMetadata)** | [![Stars](https://img.shields.io/github/stars/open-metadata/OpenMetadata?style=social&color=white)](https://github.com/open-metadata/OpenMetadata/stargazers) | **Open-source data governance and metadata platform** (Apache 2.0). Data discovery, column-level lineage, automated quality checks, no-code profiling, classification, and data contracts. Complements GRC tools by providing a comprehensive data asset inventory. |
 | **[Prowler](https://github.com/prowler-cloud/prowler)** | [![Stars](https://img.shields.io/github/stars/prowler-cloud/prowler?style=social&color=white)](https://github.com/prowler-cloud/prowler/stargazers) | **Open-source security and compliance tool for AWS, Azure, GCP, and Kubernetes.** Performs security assessments, audits, incident response, and continuous compliance monitoring against CIS benchmarks, SOC 2, ISO 27001, HIPAA, and GDPR. |
@@ -91,7 +91,7 @@ Contributions are welcome and appreciated! To propose a new SaaS product, open-s
 
 1. 🍴 **Fork the repo.**
 2. 🌿 **Create a feature branch:** `git checkout -b feature/new-compliance-tool`
-3. ✏️ **Add/edit entries in `README.md`:** Ensure SaaS listings include specific pricing and trial limits, and open-source tools include social star badges.
+3. ✏️ **Add/edit entries in `README.md`:** Ensure SaaS listings include specific pricing and trial limits, and open-source tools include social Stars_Badges.
 4. 🚀 **Submit a Pull Request (PR)** with a concise summary of the addition or update.
 
 Please keep descriptions objective, factual, and backed by official sources.
@@ -129,3 +129,12 @@ Your support keeps this repository actively updated with the latest tools and pr
   <b>Built for compliance officers, risk managers, internal auditors, and security engineers.</b><br>
   Let's make data compliance and governance more open, automated, and audit-ready!
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Compliance-Governance-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Compliance-Governance-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Compliance-Governance-Management_growth.svg">
+  </picture>
+</a>
